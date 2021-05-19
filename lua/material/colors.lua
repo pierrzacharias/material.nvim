@@ -147,15 +147,14 @@ else vim.g.material_style = 'oceanic'
 	material.bg_alt =		'#192227'
 	material.fg =			'#B0BEC5'
 	material.text =			'#607D8B'
-	material.comments =		'#464B5D'
+	material.comments =		'#FF9800'
 	material.selection = 	'#546E7A'
 	material.contrast =		'#1E272C'
 	material.active =		'#314549'
 	material.border =		'#2A373E'
-	material.line_numbers =	'#37474F'
+	material.line_numbers =	'#607D8B'
 	material.highlight =	'#425B67'
 	material.disabled =		'#415967'
-	material.accent =		'#009688'
 
 end
 
